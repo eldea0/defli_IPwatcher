@@ -1,4 +1,5 @@
 selenium==4.10.0
 psutil==5.9.5
 public-ip==0.12
+chromium-chromedriver
 requests
